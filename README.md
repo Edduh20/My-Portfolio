@@ -7,6 +7,10 @@
 ---
 
 ## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=flat)
+
 - **Languages:** Python, SQL
 - **Libraries:** Pandas, Numpy, Scikit-learn, XGBoost, Seaborn, Matplotlib, TensorFlow
 - **Tools:** Git, Jupyter, Streamlit, VS Code, Linux
