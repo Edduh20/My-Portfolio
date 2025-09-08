@@ -21,7 +21,7 @@
 - **Libraries:** Pandas, Numpy, Scikit-learn, XGBoost, Seaborn, Matplotlib, TensorFlow
 - **Tools:** Git, Jupyter, Streamlit, VS Code, Linux
 - **Database:** PostgreSQL, MySQL
-- **Cloud & Deployment:** Heroku, Streamlit Cloud
+- **Cloud & Deployment:** Streamlit Cloud
 
 ---
 
@@ -34,6 +34,11 @@ Detect fraudulent transactions using XGBoost and Scikit-learn models with data v
 ### 🏡 House Prices Prediction 
 Web app that predicts house prices based on various features using ML models.
 [GitHub Repo](https://github.com/Edduh20/House-price-app) | [Live Demo](https://house-price-prediction-app-33.streamlit.app/)
+
+### 📈 Stock Price Prediction
+
+Forecast close stock prices using historical market data.
+[Github Repo](https://github.com/Edduh20/Stock-Price-Prediction-Project.git)
 
 ### 💊 Medicine Recommendation System  
 ML model for predicting diseases and suggesting treatments using historical health data. Recommends medicine based on symptoms.  
