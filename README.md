@@ -1,8 +1,10 @@
-# Edwin Chacha Maroa | Data Scientist & Machine Learning Engineer
+# Edwin Chacha Maroa | Software Engineer • Data Scientist • Machine Learning Engineer
 
-🚀 Passionate about transforming complex data into smart, scalable solutions.  
-👨‍💻 Skilled in Python, Machine Learning, Data Analysis, and Web Apps (Streamlit, Flask, Django).  
-🧠 Always curious, always building.
+🚀 Passionate about building intelligent software powered by Machine Learning and Generative AI.
+
+👨‍💻 Software Engineer with experience in Python, Machine Learning, Data Science, Retrieval-Augmented Generation (RAG), and backend development.
+
+🧠 Interested in AI applications, data-driven systems, and scalable software solutions.
 
 ---
 
@@ -40,8 +42,11 @@ Web app that predicts house prices based on various features using ML models.
 Forecast close stock prices using historical market data.
 [Github Repo](https://github.com/Edduh20/Stock-Price-Prediction-Project.git)
 
-### 💊 Medicine Recommendation System  
-ML model for predicting diseases and suggesting treatments using historical health data. Recommends medicine based on symptoms.  
+### 💊 Medicine Recommendation & Medical RAG System
+
+AI-powered healthcare application that predicts diseases from symptoms, recommends medications, and answers medical questions using Retrieval-Augmented Generation (RAG) with WHO knowledge base documents.
+
+**Tech:** Python, Scikit-learn, Hugging Face, LangChain, FAISS, Gemini, FastAPI, Streamlit  
 [GitHub Repo](https://github.com/Edduh20/Medicine-ML-and-RAG-System.git) 
 
 ---
