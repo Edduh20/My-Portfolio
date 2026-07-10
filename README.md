@@ -42,7 +42,7 @@ Forecast close stock prices using historical market data.
 
 ### 💊 Medicine Recommendation System  
 ML model for predicting diseases and suggesting treatments using historical health data. Recommends medicine based on symptoms.  
-[GitHub Repo](#) | *In Progress*
+[GitHub Repo](https://github.com/Edduh20/Medicine-ML-and-RAG-System.git) 
 
 ---
 
