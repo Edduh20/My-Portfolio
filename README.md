@@ -28,7 +28,22 @@
 
 ## 📂 Projects
 
+### 📊 Marketing A/B Testing & Uplift Modeling
+
+Causal inference project analyzing a marketing campaign experiment to determine statistical significance, then applying uplift modeling to identify which specific customers the ad genuinely influences enabling targeted campaign spend over blanket outreach.
+
+**Tech:** Python, Pandas, SciPy, Statsmodels, Scikit-learn, Scikit-Uplift (XGBoost), Matplotlib, Streamlit
+[GitHub Repo](https://github.com/Edduh20/Marketing-A-B-Testing-Uplifting-Modelling-Project.git) | [Live Demo](https://marketing-a-b-testing-uplifting-modelling-project.streamlit.app/)
+
+### 💊 Medicine Recommendation & Medical RAG System
+
+AI-powered healthcare application that predicts diseases from symptoms, recommends medications and answers medical questions using Retrieval-Augmented Generation (RAG) with WHO knowledge base documents.
+
+**Tech:** Python, Scikit-learn, Hugging Face, LangChain, FAISS, Gemini, FastAPI, Streamlit  
+[GitHub Repo](https://github.com/Edduh20/Medicine-ML-and-RAG-System.git) | [Live Demo](https://diagnosaimedicine-ml-and-rag-system-2.streamlit.app/)
+
 ### 💳 Credit Card Fraud Detection  
+
 Detect fraudulent transactions using XGBoost and Scikit-learn models with data visualization and analysis.  
 [GitHub Repo](https://github.com/Edduh20/Credit-card-fraud-detection-project) 
 
@@ -41,12 +56,6 @@ Web app that predicts house prices based on various features using ML models.
 Forecast close stock prices using historical market data.
 [Github Repo](https://github.com/Edduh20/Stock-Price-Prediction-Project.git)
 
-### 💊 Medicine Recommendation & Medical RAG System
-
-AI-powered healthcare application that predicts diseases from symptoms, recommends medications and answers medical questions using Retrieval-Augmented Generation (RAG) with WHO knowledge base documents.
-
-**Tech:** Python, Scikit-learn, Hugging Face, LangChain, FAISS, Gemini, FastAPI, Streamlit  
-[GitHub Repo](https://github.com/Edduh20/Medicine-ML-and-RAG-System.git) | [Live Demo](https://diagnosaimedicine-ml-and-rag-system-2.streamlit.app/)
 
 ---
 
