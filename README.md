@@ -44,10 +44,10 @@ Forecast close stock prices using historical market data.
 
 ### 💊 Medicine Recommendation & Medical RAG System
 
-AI-powered healthcare application that predicts diseases from symptoms, recommends medications, and answers medical questions using Retrieval-Augmented Generation (RAG) with WHO knowledge base documents.
+AI-powered healthcare application that predicts diseases from symptoms, recommends medications and answers medical questions using Retrieval-Augmented Generation (RAG) with WHO knowledge base documents.
 
 **Tech:** Python, Scikit-learn, Hugging Face, LangChain, FAISS, Gemini, FastAPI, Streamlit  
-[GitHub Repo](https://github.com/Edduh20/Medicine-ML-and-RAG-System.git) 
+[GitHub Repo](https://github.com/Edduh20/Medicine-ML-and-RAG-System.git) | [Live Demo](https://diagnosaimedicine-ml-and-rag-system-2.streamlit.app/)
 
 ---
 
