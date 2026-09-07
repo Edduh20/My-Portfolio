@@ -2,7 +2,7 @@
 
 🚀 Passionate about building intelligent software powered by Machine Learning and Generative AI.
 
-👨‍💻 Software Engineer with experience in Python, Machine Learning, Data Science, Retrieval-Augmented Generation (RAG), and backend development.
+👨‍💻 Software Engineer with experience in Python, Machine Learning, Data Science, Retrieval-Augmented Generation (RAG) and backend development.
 
 🧠 Interested in AI applications, data-driven systems, and scalable software solutions.
 
@@ -52,7 +52,7 @@ AI-powered healthcare application that predicts diseases from symptoms, recommen
 
 ## 👨‍🎓 Education
 **BSc. Computer Science** — St. Paul's University  
-*Expected to complete: 2025*
+*Graduated - 2026*
 
 ---
 
